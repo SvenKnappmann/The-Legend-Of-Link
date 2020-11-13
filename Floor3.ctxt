@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Floor3
+comment1.params=
+comment1.target=Floor3()
+comment2.params=
+comment2.target=void\ terraForming()
+comment3.params=x\ y\ amount
+comment3.target=void\ walls(int,\ int,\ int)
+comment4.params=x\ y\ amount
+comment4.target=void\ verticalWalls(int,\ int,\ int)
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=6
